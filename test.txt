@@ -1,2 +1,2 @@
 This is a test.
-
+remote: Support for password authentication was removed on August 13, 2021.
